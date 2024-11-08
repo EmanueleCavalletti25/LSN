@@ -14,4 +14,4 @@ The compilation of the simulation itself is slightly different. Go into `NSL_SIM
 - to remove  files of OUTPUT GAS hit `make remove_GAS`
 - to remove  files of OUTPUT LIQUID hit `make remove_LIQUID`
 - to remove  files of OUTPUT SOLID hit `make remove_SOLID`
-- finally to execute the simulation, hit `./main.exe <method: equilibration or evolution  >`
+- finally to execute the simulation, hit `./main.exe <method: equilibration or evolution  >; <PHASE>` choose between (GAS,LIQUID,SOLID)
