@@ -1,0 +1,12 @@
+LJ MOLECULAR DYNAMICS (NVE) SIMULATION
+TEMPERATURE= 1.97
+NPART= 108
+SIDE=      5.12993     5.12993     5.12993
+R_CUT= 2.5
+DELTA= 0.0005
+NBLOCKS= 500
+NSTEPS= 1000
+Reading input completed!
+System initialized!
+Block completed: 1
+Block completed: 2
